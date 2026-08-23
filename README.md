@@ -1,3 +1,11 @@
+
+Người dùng iPhone giờ có thêm một lựa chọn tiện lợi: không cần jailbreak, không phải loay hoay với việc ký ứng dụng khi cài đặt và có thể chạy ứng dụng iOS trực tiếp trên thiết bị.
+
+LiveContainer là một dự án mã nguồn mở giúp loại bỏ những bước rườm rà liên quan đến chứng chỉ và ký lại ứng dụng—vốn luôn là vấn đề gây đau đầu trước đây.
+
+
+
+
 <div align="center">
    <img width="217" height="217" src="./screenshots/livecontainer_icon.png" alt="Logo">
 </div>
